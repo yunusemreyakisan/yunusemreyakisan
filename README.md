@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i.hizliresim.com/9teo2k4.png" alt="cover" />
+<img width="100%" height = "230px" src="https://i.hizliresim.com/9teo2k4.png" alt="cover" />
 </div>
 
 <h1>Hi! My name is Yunus Emre <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
