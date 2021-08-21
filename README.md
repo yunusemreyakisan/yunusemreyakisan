@@ -18,7 +18,7 @@
 
  👯 I’m looking to collaborate on Open Source Projects. 
 
- 💬 Talk to me about Python, FE Development, Basic ML, Flutter, Open Source. 
+ 💬 Talk to me about Python, FE Development, Basic ML, Flutter.
 
 <h2> Skills </h2>
 <a href= https://github.com/yunusemreyakisan?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
