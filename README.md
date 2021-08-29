@@ -14,11 +14,11 @@
 
  🔭 I’m currently working on Python and ML Libraries for Data Science Project.
 
- 🌱 I’m currently learning FE Development and UI/UX Design. 
+ 🌱 I’m currently learning Mobile Development and UI/UX Design. 
 
  👯 I’m looking to collaborate on Open Source Projects. 
 
- 💬 Talk to me about Python, FE Development, Basic ML, Flutter.
+ 💬 Talk to me about Python, FE Development, Basic ML and Flutter.
 
 <h2> Skills </h2>
 <a href= https://github.com/yunusemreyakisan?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
