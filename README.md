@@ -11,7 +11,7 @@
 ```javascript
 const yakisan = {
   code: [C++, C#, Javascript, HTML, CSS, Python, Dart],
-  tools: [React, React Native, Redux, Flutter, Firebase, ,
+  tools: [React, React Native, Redux, Flutter, Firebase,
   SQLite, AWS, Git, AdobeXD, Figma,],
   techCommunities: {
                         member: "Google DSC",
