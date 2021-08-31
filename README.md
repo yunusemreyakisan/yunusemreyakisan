@@ -1,12 +1,12 @@
 <h2> Hi, I'm Yunus Emre! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="<iframe src="https://giphy.com/embed/7ALOsHTCDT5fi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 [![Twitter: theyakisan](https://img.shields.io/twitter/follow/theyakisan?style=social)](https://twitter.com/theyakisan)
 [![Linkedin: yunusemreyakisan](https://img.shields.io/badge/-yunusemreyakisan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunusemreyakisan/)](https://www.linkedin.com/in/yunusemreyakisan/)
 [![GitHub yunusemreyakisan](https://img.shields.io/github/followers/yunusemreyakisan?label=follow&style=social)](https://github.com/yunusemreyakisan)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.  
 
 ```javascript
 const thai = {
