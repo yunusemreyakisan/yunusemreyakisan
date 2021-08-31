@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yunus Emre! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="<iframe src="https://giphy.com/embed/7ALOsHTCDT5fi" width="300" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align='right' src="https://giphy.com/embed/7ALOsHTCDT5fi" width="300" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 [![Twitter: theyakisan](https://img.shields.io/twitter/follow/theyakisan?style=social)](https://twitter.com/theyakisan)
 [![Linkedin: yunusemreyakisan](https://img.shields.io/badge/-yunusemreyakisan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunusemreyakisan/)](https://www.linkedin.com/in/yunusemreyakisan/)
