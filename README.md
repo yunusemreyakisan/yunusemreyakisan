@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yunus Emre! <img src="https://media.giphy.com/media/iSD0xUVEd8iABcQpTg/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Yunus Emre! <img src="https://media.giphy.com/media/iSD0xUVEd8iABcQpTg/giphy.gif" width="50" width="50" height="50" ></h2>
 <img align='right' src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47ehrj98eob7xx993vbzk8owp3vo77p3hm9qdrumyv&rid=giphy.gif&ct=g" width="350" height="400" frameBorder="0" class="giphy-embed"/>
 
 [![Twitter: theyakisan](https://img.shields.io/twitter/follow/theyakisan?style=social)](https://twitter.com/theyakisan)
