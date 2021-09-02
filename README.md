@@ -11,12 +11,12 @@
 ```javascript
 const yakisan = {
   code: [C++, C#, Javascript, HTML, CSS, Python, Dart],
-  tools: [React, React Native, Flutter, Firebase,
-  SQLite, AWS, Git, AdobeXD, Figma,],
+  tools: [React, React Native, Flutter, Firebase, MySQL,
+          SQLite, AWS, Git, AdobeXD, Figma],
   techCommunities: {
                         member: "Google DSC",
-                        work: "Teknofest",
-                        fan: "Entrepreneurship"
+                        work: "Teknofest 21",
+                        fan: "Tech Entrepreneurship"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
 }
