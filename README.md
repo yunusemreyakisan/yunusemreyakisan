@@ -18,7 +18,7 @@ const yakisan = {
                         work: "Teknofest 21",
                         fan: "Tech Entrepreneurship"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
 }
 ```
 
