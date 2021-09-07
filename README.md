@@ -12,7 +12,7 @@
 const yakisan = {
   code: [C++, C#, Javascript, HTML, CSS, Python, Dart],
   tools: [React, React Native, Flutter, Firebase, MySQL,
-          SQLite, AWS, Git, AdobeXD, Figma],
+          AWS, Git, AdobeXD, Figma],
   techCommunities: {
                         member: "Google DSC",
                         work: "Teknofest 21",
