@@ -15,10 +15,10 @@ const yakisan = {
           AWS, Git, AdobeXD, Figma],
   techCommunities: {
                         member: "Google DSC",
-                        work: "Teknofest 21",
+                        work: "Freelance",
                         fan: "Tech Entrepreneurship"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
+ challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
 }
 ```
 
