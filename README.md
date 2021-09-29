@@ -6,7 +6,7 @@
 [![GitHub yunusemreyakisan](https://img.shields.io/github/followers/yunusemreyakisan?label=follow&style=social)](https://github.com/yunusemreyakisan)
 
 
-### 📍 A little more about me.  
+### 📍 Life Stack
 
 ```javascript
 const yakisan = {
