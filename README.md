@@ -14,7 +14,7 @@ const yakisan = {
   tools: [React, React Native, Flutter, Firebase, MySQL,
           AWS, Git, AdobeXD, Figma, MS Office],
   techCommunities: {
-                        member: "Google DSC",
+                        member: "Google Communities",
                         work: "Freelance",
                         fan: "Tech Entrepreneurship"
                       },
