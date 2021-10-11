@@ -10,16 +10,15 @@
 
 ```javascript
 const yakisan = {
-  code: [C++, C#, Javascript, HTML, CSS, Python, Dart, Kotlin],
-  tools: [React, React Native, Flutter, Firebase, SQL,
-          AWS, Git, AdobeXD, Figma, MS Office],
+  code: [C++, C#, Javascript, HTML, CSS, Python, Dart],
+  tools: [Bootstrap, Flutter, Firebase, SQL, AWS, Git, AdobeXD, Figma, MS Office],
   techCommunities: {
                         member: "Google Communities",
-                        work: "Full-Stack Development",
+                        work: "AI Researcher",
                         fan: "Tech Entrepreneurship"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python"
 }
 ```
 
-<em><b>I'm a part-time student, a full-time programmer, and an entrepreneur.</b></em>
+<em><b>I'm a part-time student, a full-time programmer, and a researcher.</b></em>
