@@ -6,7 +6,7 @@
 [![GitHub yunusemreyakisan](https://img.shields.io/github/followers/yunusemreyakisan?label=follow&style=social)](https://github.com/yunusemreyakisan)
 
 
-### 📍 Life Stack
+### 📍 Tech Stack
 
 ```javascript
 const yakisan = {
@@ -18,7 +18,7 @@ const yakisan = {
                         work: "Mobile Development",
                         fan: "Tech Entrepreneurship"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
+ challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
 }
 ```
 
