@@ -14,8 +14,8 @@ const yakisan = {
   tools: [React, React Native, Flutter, Firebase, SQL,
           AWS, Git, AdobeXD, Figma, MS Office],
   techCommunities: {
-                        member: "Google and Android Communities",
-                        work: "Mobile Development",
+                        member: "Google Communities",
+                        work: "Full-Stack Development",
                         fan: "Tech Entrepreneurship"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
