@@ -11,7 +11,8 @@
 ```javascript
 const yakisan = {
   code: [C++, C#, Javascript, HTML, CSS, Python, Dart],
-  tools: [Bootstrap, Flutter, Firebase, SQL, AWS, Git, AdobeXD, Figma, MS Office],
+  tools: [Bootstrap, Flutter, Firebase, SQL, AWS, Git
+          AdobeXD, Figma, MS Office],
   techCommunities: {
                         member: "Google Communities",
                         work: "AI Researcher",
