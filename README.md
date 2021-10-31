@@ -22,4 +22,3 @@ const yakisan = {
 }
 ```
 
-<em><b>I'm a part-time student, a full-time programmer, and researcher.</b></em>
