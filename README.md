@@ -15,8 +15,8 @@ const yakisan = {
           AWS, Git, AdobeXD, Figma, MS Office],
   techCommunities: {
                         member: "Google Communities",
-                        work: "AI and Robotics Researcher",
-                        fan: "Tech Entrepreneurship (especially Robotics and AI)"
+                        work: "AI/ML Researcher",
+                        fan: "Tech Entrepreneurship"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python"
 }
