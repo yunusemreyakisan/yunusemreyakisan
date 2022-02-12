@@ -10,7 +10,7 @@
 
 ```javascript
 const yakisan = {
-  code experience: [C++, C#, Python, Dart],
+  code experience: [C++, C#, Python, Dart, JavaScript, HTML/CSS],
   tools: [Bootstrap, Flutter, Firebase, SQL,
           AWS, Git, AdobeXD, Figma, MS Office],
   techCommunities: {
