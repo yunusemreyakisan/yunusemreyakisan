@@ -17,8 +17,6 @@ const yakisan = {
                         member: "Google Communities",
                         work: "Android Development",
                         fan: "Tech Entrepreneurship"
-                      },
- challenge: "I am doing the #30DaysOfCode challenge focused on Dart"
-}
+                   }
 ```
 
