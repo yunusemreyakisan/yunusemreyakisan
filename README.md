@@ -13,9 +13,9 @@ const yakisan = {
   code: [C++, C#, Java, Python, Dart],
   tools: [Flutter, Firebase, SQL,
           Git, AdobeXD, Figma, MS Office],
-  techCommunities: {
+  techEcosystem: {
                         member: "Google Communities",
-                        work: "Android Development",
+                        workandlearn: "Android Development",
                         fan: "Tech Entrepreneurship"
                    }
 ```
