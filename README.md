@@ -15,7 +15,7 @@ const yakisan = {
           Git, AdobeXD, Figma, MS Office],
   techEcosystem: {
                         member: "Google Communities",
-                        workandlearn: "Android Development",
+                        work: "Android Development",
                         fan: "Tech Entrepreneurship"
                    }
 ```
