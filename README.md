@@ -10,7 +10,7 @@
 
 ```javascript
 const yakisan = {
-  code: [C++, C#, Java, Python, Dart],
+  code: [C#, Java, Python, Dart],
   tools: [Flutter, Firebase, SQL, Oracle
           Git, AdobeXD, Figma, MS Office],
   techEcosystem: {
