@@ -11,7 +11,7 @@
 ```javascript
 const yakisan = {
   code: [C#, Java, Python, Dart],
-  tools: [Flutter, Firebase, SQL, Oracle
+  tools: [Flutter, Firebase, MySQL, SQLite,
           Git, AdobeXD, Figma, MS Office],
   techEcosystem: {
                         member: "Google Communities",
