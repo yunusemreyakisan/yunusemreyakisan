@@ -10,8 +10,8 @@
 
 ```javascript
 const yakisan = {
-  code: [Java, Kotlin, Python, Dart],
-  tools: [Flutter, Firebase, MySQL, SQLite,
+  code: [Java, Kotlin, Python],
+  tools: [Firebase, MySQL, SQLite,
           Git, AdobeXD, Figma, MS Office],
   techEcosystem: {
                         member: "Google Communities",
