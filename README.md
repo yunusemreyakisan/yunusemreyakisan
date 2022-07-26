@@ -11,8 +11,9 @@
 ```javascript
 const yakisan = {
   code: [Java, Kotlin, Python],
-  tools: [Firebase, SQLite, Git, 
-          AdobeXD, Figma, MS Office],
+  tools: [Firebase, SQLite, 
+          Git, AdobeXD, Figma],
+  
   techEcosystem: {
                         member: "Google Communities",
                         work: "Android Development",
