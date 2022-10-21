@@ -1,7 +1,7 @@
 
  
 &nbsp;
-<img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e476n7e6et6ikiwy2gr8v2tphsgcd040vt2b8owjrrv&rid=giphy.gif&ct=g" width="1000" height="300">
+<img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e476n7e6et6ikiwy2gr8v2tphsgcd040vt2b8owjrrv&rid=giphy.gif&ct=g" width="900" height="300">
  
 
 
