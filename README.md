@@ -5,6 +5,7 @@
 
 
 ```javascript
+//Get to know me.
 const yakisan = {
   code: [Javascript, Typescript, Python, Java],
   tools: [React, React Native, Redux, Bootstrap, Android],
