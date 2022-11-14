@@ -1,7 +1,7 @@
 
  
 &nbsp;
-<img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e4734am7tn8k147cb6jd85lp1s6b4iof137dofa8eah&rid=giphy.gif&ct=g" width="900" height="400">
+<img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="900" height="200">
 
 
 ```javascript
