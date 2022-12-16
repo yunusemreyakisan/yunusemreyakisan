@@ -1,8 +1,4 @@
 
- 
-&nbsp;
-<img src="github_more.png" width="900" height="200">
-
 
 ```javascript
 //Get to know me.
