@@ -3,8 +3,8 @@
 ```javascript
 //Get to know me.
 const yakisan = {
-  code: [Javascript, Typescript, Python, Java],
+  code: [Javascript, Python, Java, Kotlin],
   tools: [React, React Native, Android, Firebase, MySQL],
-  workspaces: [Android Studio, Intellij Idea, VSCode, WebStorm, Figma]
+  workspaces: [Android Studio, Intellij Idea, VSCode, Figma]
 }
 ```
