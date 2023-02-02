@@ -2,9 +2,8 @@
 ```javascript
 //Get to know me.
 var yakisan = {
-  code: ["Java", "Kotlin", "Swift"],
-  tools: ["Android", "XML", "iOS", "SwiftUI"],
-  workspaces: ["Android Studio", "Xcode", "Intellij Idea",
-                    "VSCode", "Figma", "Firebase", "MySQL"]
+  code: ["Python", "Java", "Kotlin"],
+  tools: ["Android", "XML", "Firebase", "MySQL"],
+  workspaces: ["Android Studio", "Intellij Idea", "VSCode", "Figma"]
 }
 ```
