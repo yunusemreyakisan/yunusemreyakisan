@@ -1,11 +1,6 @@
 
-###
-
-<h3 align="left">⚙️ Tech Stack</h3>
-
-###
 ```javascript
-//Get to know me.
+//Tech Stack
 var yakisan = {
   code: ["Python", "Java", "Kotlin"],
   tools: ["Android", "XML", "Firebase", "Jetpack Compose", "Flask", 
