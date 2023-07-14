@@ -2,8 +2,8 @@
 ```javascript
 //Tech Stack
 var yakisan = {
-  code: ["Python", "Java", "Kotlin"],
-  tools: ["Android", "XML", "Firebase", "Jetpack", "Spring", "MySQL"],
+  code: ["Java", "Kotlin", "ES"],
+  tools: ["Android", "Firebase", "Compose", "Spring", "MySQL", "PostgreSQL"],
   workspaces: ["Android Studio", "Intellij Idea", "VSCode", "Figma"]
 }
 ```
